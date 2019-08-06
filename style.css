@@ -80,4 +80,20 @@ header > div {
   .condensed{
       font-stretch: ultra-condensed;
   }
+
+  #bottom {
+      display: flex;
+      justify-content: space-evenly;
+  }
+  .container{
+      width: 500px;
+      margin: 0 auto;
+  }
+
+  #bottomn .container{
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      width: 370px; 
+  }
   
