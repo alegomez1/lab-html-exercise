@@ -76,3 +76,8 @@ header > div {
   .small-images {
       width: 20px;
   }
+
+  .condensed{
+      font-stretch: ultra-condensed;
+  }
+  
