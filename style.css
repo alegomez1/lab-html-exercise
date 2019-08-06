@@ -51,6 +51,7 @@ header > div {
   .intro h1{
       font-size: 3.5em;
       padding-top: 50px;
+   
   }
   .intro p{
       box-sizing: border-box;
@@ -70,4 +71,8 @@ header > div {
   .middle h1{
       background-color: rgba(255,204,53,.4);
       
+  }
+
+  .small-images {
+      width: 20px;
   }
