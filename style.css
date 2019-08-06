@@ -47,5 +47,19 @@ header > div {
   .intro p{
       box-sizing: border-box;
       text-align: center;
-      color: rebeccapurple
+  }
+
+
+  .middle {
+    background-color:white
+    height: 600px;
+    text-align: center;
+  }
+  .hexagon {
+      width: 180px;
+      padding-top: 45px;
+  }
+  .middle h1{
+      background-color: rgba(255,204,53,.4);
+      
   }
