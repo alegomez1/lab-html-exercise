@@ -34,6 +34,14 @@ header > div {
     margin-right: 1rem;
   }
 
+  .logo{
+      width: 50px;
+      margin-right: 1rem;
+  }
+  .magnifying{
+      width: 30px;
+  }
+
   .intro {
       background-color: rgba(232,217,217,.3);
       height: 600px;
