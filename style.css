@@ -1,3 +1,51 @@
-body{
-    background-color: rebeccapurple;
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+body {
+  font-family: 'Poppins';
 }
+
+header > div {
+    padding: 0 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid lightgray;
+  }
+  
+  nav {
+    width: 600px;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: black;
+  }
+  
+  
+  .blackHeart {
+    width: 20px;
+    margin-right: 1rem;
+  }
+
+  .intro {
+      background-color: rgba(232,217,217,.3);
+      height: 600px;
+      text-align: center;
+    
+  }
+  .intro h1{
+      font-size: 3.5em;
+      padding-top: 50px;
+  }
+  .intro p{
+      box-sizing: border-box;
+      text-align: center;
+      color: rebeccapurple
+  }
